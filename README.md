@@ -1,6 +1,4 @@
 
-# Autopsy Dark Mode
-
 🚀 Project Name: Autopsy Dark Mode
 ===============
 
