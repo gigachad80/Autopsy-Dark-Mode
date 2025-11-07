@@ -1,5 +1,4 @@
 
-
 # Autopsy Dark Mode
 
 🚀 Project Name: Autopsy Dark Mode
@@ -9,7 +8,7 @@
 
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-purple.svg)
 <a href="https://github.com/gigachad80/Autopsy-Dark-Mode/issues"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"></a>
-
+<img src="https://github.com/user-attachments/assets/afe2c2f6-afb8-4e25-af07-0684d1904441" alt="Description" width="1500" height="1500">
 
 ## Table of Contents
 
