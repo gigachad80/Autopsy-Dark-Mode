@@ -8,6 +8,19 @@ Autopsy Dark Mode: A NetBeans module to enable dark theme support in the Autopsy
 <a href="https://github.com/gigachad80/Autopsy-Dark-Mode/issues"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"></a>
 
 
+
+
+
+
+
+
+<img width="1916" height="1001" alt="image" src="https://github.com/user-attachments/assets/9439b3ff-ed48-499e-a65d-f3ba60efda32" />
+
+
+
+
+
+
 ## Table of Contents
 
 * [📌 Overview](#-overview)
