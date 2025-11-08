@@ -2,7 +2,7 @@
 🚀 Project Name: Autopsy Dark Mode
 ===============
 
-### Autopsy Dark Mode: A NetBeans module to enable dark theme support in the Autopsy digital forensics platform using FlatLaf for reduced eye strain during long analysis sessions.
+Autopsy Dark Mode: A NetBeans module to enable dark theme support in the Autopsy digital forensics platform using FlatLaf for reduced eye strain during long analysis sessions.
 
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-purple.svg)
 <a href="https://github.com/gigachad80/Autopsy-Dark-Mode/issues"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"></a>
